@@ -1,1 +1,1 @@
-# TypesCriptTutorial
+# TypeSCriptTutorial
