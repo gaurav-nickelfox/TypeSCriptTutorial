@@ -35,4 +35,16 @@ const userDetails: { firstName: string; lastName: string; phone: number } = {
   phone: 75657747,
 };
 
+// Returning specific time from the function 
+
+function returnUserDetails():{firstName:string,lastName:string}{
+ return {firstName:'Learn',lastName:'Typescript'}
+}
+
+//Function with no return types /void
+
+function printUserDetails():void{
+    console.log("User",{firstName:'Learn',lastName:'Typescript'})
+}
+
 
