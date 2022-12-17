@@ -96,3 +96,6 @@ interface Todo5 {
   };
    
   todoInfo;
+
+  // For more Infromations on other utility Types refer this Link
+  // Link: https://www.typescriptlang.org/docs/handbook/utility-types.html#omittype-keys
