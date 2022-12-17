@@ -21,8 +21,12 @@ Sum(45, 54);
 // Array Types
 
 const userNumberData: number[] = [1, 3, 4];
+// Using Array ShorrtHand propertis 
+// Link : https://www.typescriptlang.org/docs/handbook/2/objects.html#the-array-type
+const userNumberData2:Array<number> = [1,2,3,4]
 
 const userStringData: string[] = ["ab", "ba", "ca"];
+const userStringData2:Array<string>= ["ab", "ba", "ca"];
 
 userNumberData.push(45);
 
